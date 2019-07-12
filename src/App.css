@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  /* font-style:italic; */
+  font-size: 40px;
+}
+.create {
+  margin: 1%;
+  width: 15%;
+}
+.filter{
+  margin: 1%;
+  width: 15%;
+}
+button{
+  margin-left: 0.5%;
+}
